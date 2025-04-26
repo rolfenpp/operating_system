@@ -1,6 +1,6 @@
 # Minimal OS
 
-A simple bootloader + protected mode kernel written in x86 assembly and C.
+A bootloader + protected mode kernel written in x86 assembly and C.
 
 ## Features
 - Custom bootloader in real mode
